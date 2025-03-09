@@ -1,0 +1,25 @@
+{
+  "name": "scullx",
+  "version": "0.0.1",
+  "description": "A command line tool and templating package for sculli.net",
+  "keywords": [
+    "cli",
+    "template",
+    "scullinet"
+  ],
+  "homepage": "https://github.com/sculli-net/scullx#readme",
+  "bugs": {
+    "url": "https://github.com/sculli-net/scullx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sculli-net/scullx.git"
+  },
+  "license": "ISC",
+  "author": "sculli-net",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
